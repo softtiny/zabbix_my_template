@@ -14,3 +14,6 @@ set dotenv-load
 
 @valuemap:
     python valuemap_create.py
+
+@network_itemprototype:
+    python network/itemprototype_create.py

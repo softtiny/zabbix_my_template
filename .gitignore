@@ -63,4 +63,5 @@ pyvenv
 sources
 var/*
 venv
+.env
 virtualenv.py
